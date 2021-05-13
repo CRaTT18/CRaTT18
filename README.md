@@ -4,9 +4,9 @@ I'm a front end developer, licensed independent adjuster & collision estimator. 
 
 - 🔭 I’m currently working on a white label body shop app in React Native.
 - 🌱 I’m currently learning mongo/node/express.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with finding a carb for a 1974 KD125.
 - 💬 Ask me about vintage dirt bikes.
 - 📫 How to reach me: ratt18@hotmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Justin Roiland himself voices both Rick and Morty.
 
